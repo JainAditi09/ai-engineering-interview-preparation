@@ -9,8 +9,8 @@ This plan follows the four-week structure of the uploaded roadmap. Each day incl
 ### Day 1 — How LLMs work
 - Learn: tokens, context window, attention intuition, KV cache, temperature, top-p, stop sequences, system/user prompts, hallucinations, token cost, latency, reasoning vs standard models.
 - Interview drill: Explain the generation lifecycle; compare temperature and top-p; explain why context length affects cost and latency.
-- Build: CLI chatbot with streaming, history, token and cost counter.
-- Deliverable: `day-01/` implementation + notes.
+- Build: CLI chatbot with streaming, history, token and cost counter ([project notes in this repository](../projects/project-0-day-1-cli-chatbot.md) · [standalone Gemini Python CLI chatbot repo](https://github.com/JainAditi09/ai-cli-chatbot)).
+- Deliverable: [Day 1 CLI chatbot implementation](../projects/project-0-day-1-cli-chatbot.md) + notes.
 
 ### Day 2 — Prompting and structured outputs
 - Learn: prompt patterns, few-shot examples, XML/JSON structure, JSON schema, Pydantic validation, retry-on-invalid-output.
