@@ -34,7 +34,7 @@ This plan follows the four-week structure of the uploaded roadmap. Each day incl
 - Learn: plan-and-execute, reflection/self-critique, router, prompt chaining, parallelization, orchestrator-worker.
 - Interview drill: Select a pattern for a concrete task and justify the complexity/cost trade-off.
 - Build: add planner and critic steps to Day 4 agent; compare on 10 tasks.
-- Deliverable: comparison table with success, latency, and cost where measurable.
+- Deliverable: [Day 5 agent patterns guide, planner/critic implementation, and 10-task evaluation](../projects/day-5-agent-patterns.md).
 
 ### Day 6 — Failure modes and consolidation
 - Learn: infinite loops, hallucinated tool arguments, context bloat, error compounding.
