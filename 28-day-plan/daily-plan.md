@@ -28,7 +28,7 @@ This plan follows the four-week structure of the uploaded roadmap. Each day incl
 - Learn: observe–reason–act–observe, stopping conditions, max steps, token budgets, loop detection; workflow vs agent.
 - Interview drill: Explain ReAct; when would you avoid an agent; how do you prevent infinite loops?
 - Build: approximately 150-line plain-Python ReAct agent.
-- Deliverable: framework-free agent and sequence diagram.
+- Deliverable: framework-free agent and [ReAct sequence diagram + walkthrough](../projects/project-1-from-scratch-agent.md#react-agent-sequence-diagram).
 
 ### Day 5 — Agent patterns
 - Learn: plan-and-execute, reflection/self-critique, router, prompt chaining, parallelization, orchestrator-worker.
