@@ -40,7 +40,7 @@ This plan follows the four-week structure of the uploaded roadmap. Each day incl
 - Learn: infinite loops, hallucinated tool arguments, context bloat, error compounding.
 - Interview drill: Diagnose a failing agent trace and propose safeguards.
 - Build: failure-injection tools that fail, return junk, or time out; make the agent recover safely.
-- Deliverable: Project 1 — From-Scratch Agent; README and failure log.
+- Deliverable: [Day 6 — Agent Failure Modes, Recovery, and Consolidation](../projects/day-6-agent-failure-modes.md); Project 1 README and failure log.
 
 ### Day 7 — Review and rest
 - Explain aloud: What is an agent? How does the loop work? When would you avoid agents? How do you stop loops?
